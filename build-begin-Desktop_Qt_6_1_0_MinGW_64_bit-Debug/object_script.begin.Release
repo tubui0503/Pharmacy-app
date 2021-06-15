@@ -1,0 +1,12 @@
+release/main.o
+release/mainwindow.o
+release/meddialog.o
+release/search.o
+release/timthuoc.o
+release/updatemed.o
+release/qrc_Icon.o
+release/moc_mainwindow.o
+release/moc_meddialog.o
+release/moc_search.o
+release/moc_timthuoc.o
+release/moc_updatemed.o

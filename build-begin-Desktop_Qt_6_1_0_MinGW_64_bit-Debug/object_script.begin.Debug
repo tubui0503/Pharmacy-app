@@ -1,0 +1,12 @@
+debug/main.o
+debug/mainwindow.o
+debug/meddialog.o
+debug/search.o
+debug/timthuoc.o
+debug/updatemed.o
+debug/qrc_Icon.o
+debug/moc_mainwindow.o
+debug/moc_meddialog.o
+debug/moc_search.o
+debug/moc_timthuoc.o
+debug/moc_updatemed.o
